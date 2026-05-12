@@ -17,6 +17,30 @@ The project features an attractive user interface, smooth animations, and a crea
 * CSS3
 * JavaScript
 
+## 📸 Screenshots
+
+### Image 1
+![Screenshot](Screenshot (10).png)
+
+### Image 2
+![Screenshot](Screenshot (15).png)
+
+### Image 3
+![Screenshot](Screenshot (16).png)
+
+### Image 4
+![Screenshot](Screenshot (3).png)
+
+### Image 5
+![Screenshot](Screenshot (4).png)
+
+### Image 6
+![Screenshot](Screenshot (5).png)
+
+### Image 7
+![Screenshot](Screenshot (9).png)
+
+
 ## Live Demo
 
 [Birthday Website Live Demo](https://sheikhsiddique722-sketch.github.io/Birthday/?utm_source=chatgpt.com)
