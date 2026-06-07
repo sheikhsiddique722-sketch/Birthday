@@ -43,7 +43,7 @@ The project features an attractive user interface, smooth animations, and a crea
 
 ## Live Demo
 
-[Birthday Website Live Demo](https://sheikhsiddique722-sketch.github.io/Birthday/?utm_source=chatgpt.com)
+[Birthday Website Live Demo]( https://sheikhsiddique722-sketch.github.io/Birthday/)
 
 ## Developer
 
