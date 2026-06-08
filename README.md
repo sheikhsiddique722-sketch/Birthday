@@ -5,7 +5,7 @@ The project features an attractive user interface, smooth animations, and a crea
 
 ## Features
 
-* Responsive design
+* Responsive design 
 * Smooth animations and effects
 * Interactive birthday theme
 * Modern and clean UI
