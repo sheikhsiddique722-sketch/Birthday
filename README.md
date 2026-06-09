@@ -4,7 +4,7 @@ A modern and responsive birthday celebration website developed using HTML, CSS, 
 The project features an attractive user interface, smooth animations, and a creative layout designed to make birthday celebrations more interactive and memorable.
 
 ## Features
-
+   
 * Responsive design 
 * Smooth animations and effects
 * Interactive birthday theme
